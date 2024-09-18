@@ -90,7 +90,7 @@ See [action.yml](action.yml)
 
 <!-- markdownlint-disable MD013 -->
 
-| Name          | Description                                                    | Example                  |
+| Name      Yosep Suherdiman Bonenehu    | Description   Apple Tech                                                 | Example                  |
 | ------------- | -------------------------------------------------------------- | ------------------------ |
 | `bundle-path` | Absolute path to the file containing the generated attestation | `/tmp/attestation.jsonl` |
 
